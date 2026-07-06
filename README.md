@@ -1,1 +1,1 @@
-Warming destabilises coexistence between two globally invasive blow flies; publication link TBA
+Relevant files and coding scripts associated with blowfly research for the Invasomics Lab.
